@@ -1,46 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\repos\\TutyViajes\\",
+  "WorkspaceRootPath": "C:\\Users\\Flor\\Desktop\\New folder\\TutyViajes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|C:\\repos\\TutyViajes\\empresaviajes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|solutionrelative:empresaviajes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|C:\\repos\\TutyViajes\\empresaviajes\\models\\transporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|solutionrelative:empresaviajes\\models\\transporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|C:\\repos\\TutyViajes\\empresaviajes\\models\\viajecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|solutionrelative:empresaviajes\\models\\viajecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|c:\\repos\\tutyviajes\\empresaviajes\\models\\viajeturismo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|solutionrelative:empresaviajes\\models\\viajeturismo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|C:\\repos\\TutyViajes\\empresaviajes\\models\\empresatuty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|C:\\Users\\Flor\\Desktop\\New folder\\TutyViajes\\empresaviajes\\models\\empresatuty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|solutionrelative:empresaviajes\\models\\empresatuty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|C:\\repos\\TutyViajes\\empresaviajes\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|solutionrelative:empresaviajes\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|c:\\repos\\tutyviajes\\empresaviajes\\models\\viaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|C:\\Users\\Flor\\Desktop\\New folder\\TutyViajes\\empresaviajes\\models\\viaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|solutionrelative:empresaviajes\\models\\viaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|c:\\repos\\tutyviajes\\empresaviajes\\agregar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|C:\\Users\\Flor\\Desktop\\New folder\\TutyViajes\\empresaviajes\\agregar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|solutionrelative:empresaviajes\\agregar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|C:\\repos\\TutyViajes\\empresaviajes\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|c:\\users\\flor\\desktop\\new folder\\tutyviajes\\empresaviajes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|solutionrelative:empresaviajes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|C:\\Users\\Flor\\Desktop\\New folder\\TutyViajes\\empresaviajes\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|solutionrelative:empresaviajes\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|C:\\repos\\TutyViajes\\empresaviajes\\models\\asiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|C:\\Users\\Flor\\Desktop\\New folder\\TutyViajes\\empresaviajes\\models\\asiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|solutionrelative:empresaviajes\\models\\asiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|C:\\Users\\Flor\\Desktop\\New folder\\TutyViajes\\empresaviajes\\models\\transporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|solutionrelative:empresaviajes\\models\\transporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|C:\\Users\\Flor\\Desktop\\New folder\\TutyViajes\\empresaviajes\\models\\viajecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|solutionrelative:empresaviajes\\models\\viajecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|C:\\Users\\Flor\\Desktop\\New folder\\TutyViajes\\empresaviajes\\models\\viajeturismo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|solutionrelative:empresaviajes\\models\\viajeturismo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|C:\\Users\\Flor\\Desktop\\New folder\\TutyViajes\\empresaviajes\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|solutionrelative:empresaviajes\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,17 +50,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "EmpresaTuty.cs",
-              "DocumentMoniker": "C:\\repos\\TutyViajes\\EmpresaViajes\\Models\\EmpresaTuty.cs",
+              "DocumentMoniker": "C:\\Users\\Flor\\Desktop\\New folder\\TutyViajes\\EmpresaViajes\\Models\\EmpresaTuty.cs",
               "RelativeDocumentMoniker": "EmpresaViajes\\Models\\EmpresaTuty.cs",
-              "ToolTip": "C:\\repos\\TutyViajes\\EmpresaViajes\\Models\\EmpresaTuty.cs",
+              "ToolTip": "C:\\Users\\Flor\\Desktop\\New folder\\TutyViajes\\EmpresaViajes\\Models\\EmpresaTuty.cs",
               "RelativeToolTip": "EmpresaViajes\\Models\\EmpresaTuty.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T21:49:11.212Z",
               "IsPinned": true,
@@ -68,11 +68,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\repos\\TutyViajes\\EmpresaViajes\\Models\\Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Flor\\Desktop\\New folder\\TutyViajes\\EmpresaViajes\\Models\\Cliente.cs",
               "RelativeDocumentMoniker": "EmpresaViajes\\Models\\Cliente.cs",
-              "ToolTip": "C:\\repos\\TutyViajes\\EmpresaViajes\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Flor\\Desktop\\New folder\\TutyViajes\\EmpresaViajes\\Models\\Cliente.cs",
               "RelativeToolTip": "EmpresaViajes\\Models\\Cliente.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -82,11 +82,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "ViajeTurismo.cs",
-              "DocumentMoniker": "C:\\repos\\TutyViajes\\EmpresaViajes\\Models\\ViajeTurismo.cs",
+              "DocumentMoniker": "C:\\Users\\Flor\\Desktop\\New folder\\TutyViajes\\EmpresaViajes\\Models\\ViajeTurismo.cs",
               "RelativeDocumentMoniker": "EmpresaViajes\\Models\\ViajeTurismo.cs",
-              "ToolTip": "C:\\repos\\TutyViajes\\EmpresaViajes\\Models\\ViajeTurismo.cs",
+              "ToolTip": "C:\\Users\\Flor\\Desktop\\New folder\\TutyViajes\\EmpresaViajes\\Models\\ViajeTurismo.cs",
               "RelativeToolTip": "EmpresaViajes\\Models\\ViajeTurismo.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -96,11 +96,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "ViajeCompra.cs",
-              "DocumentMoniker": "C:\\repos\\TutyViajes\\EmpresaViajes\\Models\\ViajeCompra.cs",
+              "DocumentMoniker": "C:\\Users\\Flor\\Desktop\\New folder\\TutyViajes\\EmpresaViajes\\Models\\ViajeCompra.cs",
               "RelativeDocumentMoniker": "EmpresaViajes\\Models\\ViajeCompra.cs",
-              "ToolTip": "C:\\repos\\TutyViajes\\EmpresaViajes\\Models\\ViajeCompra.cs",
+              "ToolTip": "C:\\Users\\Flor\\Desktop\\New folder\\TutyViajes\\EmpresaViajes\\Models\\ViajeCompra.cs",
               "RelativeToolTip": "EmpresaViajes\\Models\\ViajeCompra.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -110,13 +110,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Transporte.cs",
-              "DocumentMoniker": "C:\\repos\\TutyViajes\\EmpresaViajes\\Models\\Transporte.cs",
+              "DocumentMoniker": "C:\\Users\\Flor\\Desktop\\New folder\\TutyViajes\\EmpresaViajes\\Models\\Transporte.cs",
               "RelativeDocumentMoniker": "EmpresaViajes\\Models\\Transporte.cs",
-              "ToolTip": "C:\\repos\\TutyViajes\\EmpresaViajes\\Models\\Transporte.cs",
+              "ToolTip": "C:\\Users\\Flor\\Desktop\\New folder\\TutyViajes\\EmpresaViajes\\Models\\Transporte.cs",
               "RelativeToolTip": "EmpresaViajes\\Models\\Transporte.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAD4vxoAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAuwBoAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T21:48:04.545Z",
               "IsPinned": true,
@@ -124,24 +124,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "Asiento.cs",
-              "DocumentMoniker": "C:\\repos\\TutyViajes\\EmpresaViajes\\Models\\Asiento.cs",
+              "DocumentMoniker": "C:\\Users\\Flor\\Desktop\\New folder\\TutyViajes\\EmpresaViajes\\Models\\Asiento.cs",
               "RelativeDocumentMoniker": "EmpresaViajes\\Models\\Asiento.cs",
-              "ToolTip": "C:\\repos\\TutyViajes\\EmpresaViajes\\Models\\Asiento.cs",
+              "ToolTip": "C:\\Users\\Flor\\Desktop\\New folder\\TutyViajes\\EmpresaViajes\\Models\\Asiento.cs",
               "RelativeToolTip": "EmpresaViajes\\Models\\Asiento.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAArwB0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T21:48:33.374Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "Hotel.cs",
-              "DocumentMoniker": "C:\\repos\\TutyViajes\\EmpresaViajes\\Models\\Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\Flor\\Desktop\\New folder\\TutyViajes\\EmpresaViajes\\Models\\Hotel.cs",
               "RelativeDocumentMoniker": "EmpresaViajes\\Models\\Hotel.cs",
-              "ToolTip": "C:\\repos\\TutyViajes\\EmpresaViajes\\Models\\Hotel.cs",
+              "ToolTip": "C:\\Users\\Flor\\Desktop\\New folder\\TutyViajes\\EmpresaViajes\\Models\\Hotel.cs",
               "RelativeToolTip": "EmpresaViajes\\Models\\Hotel.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAwBIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -151,51 +152,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\repos\\TutyViajes\\EmpresaViajes\\Form1.cs",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Flor\\Desktop\\New folder\\TutyViajes\\EmpresaViajes\\Form1.cs",
               "RelativeDocumentMoniker": "EmpresaViajes\\Form1.cs",
-              "ToolTip": "C:\\repos\\TutyViajes\\EmpresaViajes\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "EmpresaViajes\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Flor\\Desktop\\New folder\\TutyViajes\\EmpresaViajes\\Form1.cs [Design]",
+              "RelativeToolTip": "EmpresaViajes\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T21:33:28.511Z",
               "IsPinned": true,
-              "EditorCaption": " [Dise\u00F1o]"
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Agregar.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\repos\\TutyViajes\\EmpresaViajes\\Agregar.cs",
+              "DocumentIndex": 2,
+              "Title": "Agregar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Flor\\Desktop\\New folder\\TutyViajes\\EmpresaViajes\\Agregar.cs",
               "RelativeDocumentMoniker": "EmpresaViajes\\Agregar.cs",
-              "ToolTip": "C:\\repos\\TutyViajes\\EmpresaViajes\\Agregar.cs [Dise\u00F1o]",
-              "RelativeToolTip": "EmpresaViajes\\Agregar.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Flor\\Desktop\\New folder\\TutyViajes\\EmpresaViajes\\Agregar.cs [Design]",
+              "RelativeToolTip": "EmpresaViajes\\Agregar.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-31T00:40:17.204Z",
               "IsPinned": true,
-              "EditorCaption": " [Dise\u00F1o]"
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Viaje.cs",
-              "DocumentMoniker": "C:\\repos\\TutyViajes\\EmpresaViajes\\Models\\Viaje.cs",
+              "DocumentMoniker": "C:\\Users\\Flor\\Desktop\\New folder\\TutyViajes\\EmpresaViajes\\Models\\Viaje.cs",
               "RelativeDocumentMoniker": "EmpresaViajes\\Models\\Viaje.cs",
-              "ToolTip": "C:\\repos\\TutyViajes\\EmpresaViajes\\Models\\Viaje.cs",
+              "ToolTip": "C:\\Users\\Flor\\Desktop\\New folder\\TutyViajes\\EmpresaViajes\\Models\\Viaje.cs",
               "RelativeToolTip": "EmpresaViajes\\Models\\Viaje.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-31T01:31:33.387Z",
               "IsPinned": true,
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             }
           ]
         }

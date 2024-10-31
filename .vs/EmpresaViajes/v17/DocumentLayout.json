@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\EmpresaViajes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|c:\\empresaviajes\\empresaviajes\\models\\viajeturismo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|solutionrelative:empresaviajes\\models\\viajeturismo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|c:\\empresaviajes\\empresaviajes\\models\\viajecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|solutionrelative:empresaviajes\\models\\viajecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|C:\\EmpresaViajes\\empresaviajes\\models\\empresatuty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|solutionrelative:empresaviajes\\models\\empresatuty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|C:\\EmpresaViajes\\empresaviajes\\models\\transporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|solutionrelative:empresaviajes\\models\\transporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|C:\\EmpresaViajes\\empresaviajes\\models\\asiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|solutionrelative:empresaviajes\\models\\asiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|C:\\EmpresaViajes\\empresaviajes\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|solutionrelative:empresaviajes\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|c:\\empresaviajes\\empresaviajes\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|solutionrelative:empresaviajes\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|C:\\EmpresaViajes\\empresaviajes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|solutionrelative:empresaviajes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|c:\\empresaviajes\\empresaviajes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|solutionrelative:empresaviajes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViajeTurismo.cs",
+              "DocumentMoniker": "C:\\EmpresaViajes\\EmpresaViajes\\Models\\ViajeTurismo.cs",
+              "RelativeDocumentMoniker": "EmpresaViajes\\Models\\ViajeTurismo.cs",
+              "ToolTip": "C:\\EmpresaViajes\\EmpresaViajes\\Models\\ViajeTurismo.cs",
+              "RelativeToolTip": "EmpresaViajes\\Models\\ViajeTurismo.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T00:03:12.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\EmpresaViajes\\EmpresaViajes\\Models\\Hotel.cs",
+              "RelativeDocumentMoniker": "EmpresaViajes\\Models\\Hotel.cs",
+              "ToolTip": "C:\\EmpresaViajes\\EmpresaViajes\\Models\\Hotel.cs",
+              "RelativeToolTip": "EmpresaViajes\\Models\\Hotel.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAACgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T22:07:57.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViajeCompra.cs",
+              "DocumentMoniker": "C:\\EmpresaViajes\\EmpresaViajes\\Models\\ViajeCompra.cs",
+              "RelativeDocumentMoniker": "EmpresaViajes\\Models\\ViajeCompra.cs",
+              "ToolTip": "C:\\EmpresaViajes\\EmpresaViajes\\Models\\ViajeCompra.cs",
+              "RelativeToolTip": "EmpresaViajes\\Models\\ViajeCompra.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T22:06:22.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\EmpresaViajes\\EmpresaViajes\\Form1.cs",
+              "RelativeDocumentMoniker": "EmpresaViajes\\Form1.cs",
+              "ToolTip": "C:\\EmpresaViajes\\EmpresaViajes\\Form1.cs",
+              "RelativeToolTip": "EmpresaViajes\\Form1.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T21:53:33.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmpresaTuty.cs",
+              "DocumentMoniker": "C:\\EmpresaViajes\\EmpresaViajes\\Models\\EmpresaTuty.cs",
+              "RelativeDocumentMoniker": "EmpresaViajes\\Models\\EmpresaTuty.cs",
+              "ToolTip": "C:\\EmpresaViajes\\EmpresaViajes\\Models\\EmpresaTuty.cs",
+              "RelativeToolTip": "EmpresaViajes\\Models\\EmpresaTuty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T21:49:11.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Asiento.cs",
+              "DocumentMoniker": "C:\\EmpresaViajes\\EmpresaViajes\\Models\\Asiento.cs",
+              "RelativeDocumentMoniker": "EmpresaViajes\\Models\\Asiento.cs",
+              "ToolTip": "C:\\EmpresaViajes\\EmpresaViajes\\Models\\Asiento.cs",
+              "RelativeToolTip": "EmpresaViajes\\Models\\Asiento.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAArwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T21:48:33.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Transporte.cs",
+              "DocumentMoniker": "C:\\EmpresaViajes\\EmpresaViajes\\Models\\Transporte.cs",
+              "RelativeDocumentMoniker": "EmpresaViajes\\Models\\Transporte.cs",
+              "ToolTip": "C:\\EmpresaViajes\\EmpresaViajes\\Models\\Transporte.cs",
+              "RelativeToolTip": "EmpresaViajes\\Models\\Transporte.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAArwD8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T21:48:04.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\EmpresaViajes\\EmpresaViajes\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "EmpresaViajes\\Models\\Cliente.cs",
+              "ToolTip": "C:\\EmpresaViajes\\EmpresaViajes\\Models\\Cliente.cs",
+              "RelativeToolTip": "EmpresaViajes\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T21:47:50.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\EmpresaViajes\\EmpresaViajes\\Form1.cs",
+              "RelativeDocumentMoniker": "EmpresaViajes\\Form1.cs",
+              "ToolTip": "C:\\EmpresaViajes\\EmpresaViajes\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "EmpresaViajes\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T21:33:28.511Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

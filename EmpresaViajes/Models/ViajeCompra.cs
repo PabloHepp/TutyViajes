@@ -6,23 +6,18 @@ using System.Threading.Tasks;
 
 namespace EmpresaViajes.Models
 {
-    internal class ViajeCompra
+    internal class ViajeCompra:Viaje
     {
-        public int ID { get;private set; }
-        public Hotel hotel;
-        public Transporte transporte;
-        public string destino { get; private set;}
-        public double costos { get; private set;}
-        public int duracion {  get; private set;}
-
-
-        public ViajeCompra(Transporte transporte, string destino,  double costos, int duracion)
+      
+        public ViajeCompra(Transporte transporte, string destino,  double costos, int duracion) 
+            : base (transporte,destino, costos, duracion)
         {
-            this.transporte = transporte;
-            this.destino = destino;
-            this.costos = costos;
-            this.duracion = duracion;
 
         }
+        public override void AgregarHotel(Hotel hotel)
+        { 
+          => base.hotel = hotel;
+        }
+        
     }
 }

@@ -6,19 +6,26 @@ using System.Threading.Tasks;
 
 namespace EmpresaViajes.Models
 {
-    internal class ViajeTurismo:ViajeCompra
+    internal class ViajeTurismo:Viaje
     {
-        public Enum Excursiones { get; private set; }
-        public int cantExcursiones { get; private set; }
+        public bool ExcursionesNocturna { get; private set; }
 
-        public ViajeTurismo(Transporte transporte, string destino, double costos, int duracion, int excursiones) : base (transporte, destino, costos, duracion)
+        public int cantPaseos { get; private set; }
+
+        public ViajeTurismo(Transporte transporte, string destino, double costos, int duracion, int paseos) : base (transporte, destino, costos, duracion)
         {
-            this.cantExcursiones = excursiones;
+            this.cantPaseos = paseos;
         }
 
-        public string ElegirExcursion(int excursion)
-        { 
-            if (excursion )
+        public override void AgregarHotel(Hotel hotel)
+        {
+            base.hotel = hotel;
         }
+
+        //public string ElegirExcursion(int excursion)
+        //{
+        //    if (excursion)
+        //        return cantExcursiones;
+        //}
     }
 }

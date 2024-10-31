@@ -8,24 +8,24 @@ namespace EmpresaViajes.Models
 {
     internal class Hotel
     {
-        public int categoria { get; private set; }
-        public int comidas {  get; private set; }
-        public int habdisponibles { get; private set; }
-        public int habocupadas{ get; private set; }
+        public int Categoria { get; private set; }
+        public Enum Comidas {  get; private set; }
+        public int Habdisponibles { get; private set; }
+        public int Habocupadas{ get; private set; }
 
         public Hotel(int categoria, int comidas, int habdisponibles)
         {
-            this.categoria = categoria;
-            this.comidas = comidas;
-            this.habdisponibles = habdisponibles;
-            this.habocupadas = 0;
-        }
+            this.Categoria = categoria;
+            this.Comidas = comidas;
+            this.Habdisponibles = habdisponibles;
+            this.Habocupadas = 0;
+        }       
 
 
         public bool ConsultarHabitacion()
         {
 
-            if (habocupadas < habdisponibles)
+            if (Habocupadas < Habdisponibles)
                 return true;
             else
                 return false;
@@ -37,8 +37,8 @@ namespace EmpresaViajes.Models
             int habitacion = -1; //si devuelve -1 no se pudo hacer la reserva
             if (ConsultarHabitacion()) //consulto si hay disponibles
             {
-                habitacion = habocupadas; 
-                habocupadas++; //sumo uno a la pila de habitaciones
+                habitacion = Habocupadas; 
+                Habocupadas++; //sumo uno a la pila de habitaciones
             }
 
             return habitacion; //retorno numero de habitacion
@@ -46,10 +46,10 @@ namespace EmpresaViajes.Models
         
         public bool LiberarHabitacion()
         {
-            int habitacion = habocupadas;
+            int habitacion = Habocupadas;
             if (habitacion > 0)
             {
-                habocupadas--;
+                Habocupadas--;
                 return true;
             }
             return false;

@@ -1,43 +1,45 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace EmpresaViajes.Models
 {
-    internal class EmpresaTuty
+    public class EmpresaTuty
     {
         // Lista de Viajes Disponibles
-        public List<ViajeCompra>[] ListaViajes = new List<ViajeCompra>[20];
-        private int cantViajes = 0;
+        public List<Viaje>[] ListaViajes = new List<Viaje>[20];
+        public int cantViajes = 0;
+        //public Viaje this[int idx]
+        //{
+        //    get
+        //    {
+                
+        //        if (idx >= 0 && idx < ListaViajes.Count())
+        //         return ListaViajes[idx]; 
+        //        return null;
+        //    }
+        //}
+       
         // Lista de Clientes
         public List<Cliente>[] ListaClientes = new List<Cliente>[50];
         private int cantClientes = 0;
         public EmpresaTuty()
         {
-            // Transporte Hardcodeado
-            Transporte MicroUno = new Transporte("AAA111", "Cataratas del Iguazú", 50, DateTime.Today, DateTime.Today.AddDays(10), "Juan Perez");
-            Transporte MicroDos = new Transporte("AAA000", "Jujuy", 50, DateTime.Today, DateTime.Today.AddDays(15), "Pedro Gimenez");
-
-            // Viajes Harcodeado
-            AgregarViaje(new ViajeCompra(MicroUno, "Cataratas del Iguazú", 150000, 10));
-            AgregarViaje(new ViajeCompra(MicroDos, "Jujuy", 250000, 15));
-            AgregarViaje(new ViajeCompra(MicroUno, "Cordoba", 90000, 7));
-
-            // Clientes Harcodeados
-            AgregarCliente(new Cliente(9999999, "Jose Gonzalez", 30));
-            AgregarCliente(new Cliente(0000000, "Ana Fernandez", 36));
-            AgregarCliente(new Cliente(1111111, "Lionel Messi ", 25));
+           
 
         }
-        public void AgregarViaje(ViajeCompra viaje)
+        public void AgregarViaje(Transporte t, string nombre, int costo, int dias)
         {
-            ListaViajes[cantViajes++].Add(viaje);
+            Viaje v = new ViajeCompra(t, nombre, costo, dias);
+            ListaViajes[cantViajes++].Add(v);
         }
-        public void AgregarCliente(Cliente clienteNuevo)
+        public void AgregarCliente(int dni, string nombre)
         {
-            ListaClientes[cantClientes++].Add(clienteNuevo);
+            Cliente nuevo = new Cliente(dni, nombre);
+            ListaClientes[cantClientes++].Add(nuevo);
         }
 
     }

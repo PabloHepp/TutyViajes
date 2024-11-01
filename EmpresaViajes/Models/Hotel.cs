@@ -6,11 +6,10 @@ using System.Threading.Tasks;
 
 namespace EmpresaViajes.Models
 {
-    internal class Hotel
+    public class Hotel
     {
         public string Nombre { get; set; }
         public int Categoria { get; private set; }
-        public Enum Comidas {  get; private set; }
         public int Habdisponibles { get; private set; }
         public int Habocupadas{ get; private set; }
 
@@ -18,7 +17,6 @@ namespace EmpresaViajes.Models
         {
             this.Nombre = Nombre;
             this.Categoria = categoria;
-            this.Comidas = comidas; //agregar enumeradores
             this.Habdisponibles = habdisponibles;
             this.Habocupadas = 0;
         }       

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EmpresaViajes.Models
 {
-    internal class ViajeCompra:Viaje
+    public class ViajeCompra:Viaje
     {
       
         public ViajeCompra(Transporte transporte, string destino,  double costos, int duracion) 
@@ -14,9 +14,9 @@ namespace EmpresaViajes.Models
         {
 
         }
-        override void AgregarHotel(Hotel hotel)
+        public override void AgregarHotel(Hotel hotel)
         {
-            base.hotel[0] = hotel;
+            base.hoteles[0] = hotel;
         }
         
     }

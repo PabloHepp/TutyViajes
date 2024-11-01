@@ -6,22 +6,38 @@ using System.Threading.Tasks;
 
 namespace EmpresaViajes.Models
 {
-    internal class Cliente
+    public class Cliente
     {
         public int DNI { get; private set; }
         public string Nombre { get; private set; }
-        public int Edad { get; private set; }
+        
+        public string ViajeComprado
+        {
+            get
+            {
+                string viaje = $"";
+                return viaje;
+            }
 
-        public Cliente(int dni, string nombre, int edad)
+            set
+            {
+
+            }
+        }
+        //Historial de viajes
+        //static string[] Viajes { get; private set; }
+
+        public Cliente(int dni, string nombre)
         {
             DNI = dni;
             this.Nombre = nombre;
-            this.Edad = edad;
         }
-
+        //Registrar la info del viaje comprado
+        public void RegistrarViaje(int id, string desntino)
+        { }
         public override string ToString()
         {
-            return $"{DNI}-{Nombre}-{Edad}";
+            return $"{DNI}-{Nombre}";
         }
 
 

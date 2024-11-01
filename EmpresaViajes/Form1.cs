@@ -1,4 +1,5 @@
-﻿using System;
+﻿using EmpresaViajes.Models;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -13,12 +14,63 @@ namespace EmpresaViajes
 {
     public partial class Form1 : Form
     {
+        public EmpresaTuty e = new EmpresaTuty();
         public Form1()
         {
             InitializeComponent();
+            // Transporte Hardcodeado
+            Transporte MicroUno = new Transporte("AAA111", "Cataratas del Iguazú", 50, DateTime.Today, DateTime.Today.AddDays(10), "Juan Perez");
+            Transporte MicroDos = new Transporte("AAA000", "Jujuy", 50, DateTime.Today, DateTime.Today.AddDays(15), "Pedro Gimenez");
+
+            e.AgregarViaje(MicroUno, "Cataratas del Iguazú", 150000, 10);
+            // Viajes Harcodeado
+            e.AgregarViaje(MicroUno, "Cataratas del Iguazú", 150000, 10);
+            e.AgregarViaje(MicroDos, "Jujuy", 250000, 15);
+            e.AgregarViaje(MicroUno, "Cordoba", 90000, 7);
+
+            // Clientes Harcodeados
+            e.AgregarCliente(9999999, "Jose Gonzalez");
+            e.AgregarCliente(0000000, "Ana Fernandez");
+            e.AgregarCliente(1111111, "Lionel Messi ");
         }
 
+
+
+
         private void Form1_Load(object sender, EventArgs e)
+        {
+
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnAgregar_Click(object sender, EventArgs e)
+        {
+            Agregar ventViaje = new Agregar();
+            AgregarCliente ventCliente = new AgregarCliente();
+            if (rbtnClientes.Checked)
+            {
+                if (ventCliente.ShowDialog() == DialogResult.OK)
+                {
+                    int dni = Convert.ToInt32(ventCliente.txbDni);
+                    string nombre = ventCliente.txbNombre.Text;
+                   // e.AgregarCliente(dni, nombre);
+                }
+                else if (rbtnViajes.Checked)
+                {
+                    if (ventViaje.ShowDialog() == DialogResult.OK)
+                    {
+
+                    }
+                }
+            }
+        }
+
+        private void btnImportar_Click(object sender, EventArgs e)
         {
             //IMPORTAR ARCHIVO
 
@@ -75,6 +127,10 @@ namespace EmpresaViajes
             //    if (leyendo != null) leyendo.Close();
             //    if (letras != null) letras.Close();
             //}
+        }
+
+        private void btnExportar_Click(object sender, EventArgs e)
+        {
 
             //EXPORTAR ARCHIVO
 
@@ -115,11 +171,6 @@ namespace EmpresaViajes
             //    if (escribiendo != null) escribiendo.Close();
             //    if (letras != null) letras.Close();
             //}
-        }
-
-        private void label2_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }

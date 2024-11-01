@@ -61,6 +61,7 @@
             this.btnAgregar.TabIndex = 1;
             this.btnAgregar.Text = "Agregar";
             this.btnAgregar.UseVisualStyleBackColor = true;
+            this.btnAgregar.Click += new System.EventHandler(this.btnAgregar_Click);
             // 
             // btnImportar
             // 
@@ -71,6 +72,7 @@
             this.btnImportar.TabIndex = 2;
             this.btnImportar.Text = "Importar Datos";
             this.btnImportar.UseVisualStyleBackColor = true;
+            this.btnImportar.Click += new System.EventHandler(this.btnImportar_Click);
             // 
             // rbtnClientes
             // 
@@ -117,6 +119,7 @@
             this.btnExportar.TabIndex = 8;
             this.btnExportar.Text = "Exportar Datos";
             this.btnExportar.UseVisualStyleBackColor = true;
+            this.btnExportar.Click += new System.EventHandler(this.btnExportar_Click);
             // 
             // btnVerDatos
             // 

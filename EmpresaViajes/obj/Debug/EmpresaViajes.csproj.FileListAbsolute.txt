@@ -1,0 +1,12 @@
+C:\repos\TutyViajes\EmpresaViajes\obj\Debug\EmpresaViajes.csproj.AssemblyReference.cache
+C:\repos\TutyViajes\EmpresaViajes\obj\Debug\EmpresaViajes.Agregar.resources
+C:\repos\TutyViajes\EmpresaViajes\obj\Debug\EmpresaViajes.AgregarCliente.resources
+C:\repos\TutyViajes\EmpresaViajes\obj\Debug\EmpresaViajes.Form1.resources
+C:\repos\TutyViajes\EmpresaViajes\obj\Debug\EmpresaViajes.Properties.Resources.resources
+C:\repos\TutyViajes\EmpresaViajes\obj\Debug\EmpresaViajes.csproj.GenerateResource.cache
+C:\repos\TutyViajes\EmpresaViajes\obj\Debug\EmpresaViajes.csproj.CoreCompileInputs.cache
+C:\repos\TutyViajes\EmpresaViajes\bin\Debug\EmpresaViajes.exe.config
+C:\repos\TutyViajes\EmpresaViajes\bin\Debug\EmpresaViajes.exe
+C:\repos\TutyViajes\EmpresaViajes\bin\Debug\EmpresaViajes.pdb
+C:\repos\TutyViajes\EmpresaViajes\obj\Debug\EmpresaViajes.exe
+C:\repos\TutyViajes\EmpresaViajes\obj\Debug\EmpresaViajes.pdb

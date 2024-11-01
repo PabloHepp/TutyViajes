@@ -1,14 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace EmpresaViajes.Models
 {
-    abstract class Viaje
+    public abstract class Viaje
     {
-        public int ID { get; private set; }
+        
+        public int id { get; private set; }
 
         public Transporte transporte;
         public string Destino { get; private set; }
@@ -25,7 +27,7 @@ namespace EmpresaViajes.Models
             this.Duracion = duracion;
         }
 
-        public abstract void AgregarHotel();
+        public abstract void AgregarHotel(Hotel hot);
 
     }
 }

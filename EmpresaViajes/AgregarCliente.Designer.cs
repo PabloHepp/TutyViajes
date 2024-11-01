@@ -31,7 +31,6 @@
             this.button2 = new System.Windows.Forms.Button();
             this.btnAgregar = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.nudEdad = new System.Windows.Forms.NumericUpDown();
             this.txbNombre = new System.Windows.Forms.TextBox();
             this.txbDni = new System.Windows.Forms.TextBox();
             this.cmbViajes = new System.Windows.Forms.ComboBox();
@@ -47,10 +46,9 @@
             this.label6 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
+            this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.groupBox1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.nudEdad)).BeginInit();
             this.groupBox3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown3)).BeginInit();
             this.SuspendLayout();
@@ -59,7 +57,7 @@
             // 
             this.button2.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.Location = new System.Drawing.Point(215, 409);
+            this.button2.Location = new System.Drawing.Point(211, 378);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(131, 43);
             this.button2.TabIndex = 6;
@@ -70,7 +68,7 @@
             // 
             this.btnAgregar.DialogResult = System.Windows.Forms.DialogResult.OK;
             this.btnAgregar.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnAgregar.Location = new System.Drawing.Point(42, 409);
+            this.btnAgregar.Location = new System.Drawing.Point(42, 378);
             this.btnAgregar.Name = "btnAgregar";
             this.btnAgregar.Size = new System.Drawing.Size(131, 43);
             this.btnAgregar.TabIndex = 5;
@@ -79,29 +77,20 @@
             // 
             // groupBox1
             // 
-            this.groupBox1.Controls.Add(this.nudEdad);
             this.groupBox1.Controls.Add(this.txbNombre);
             this.groupBox1.Controls.Add(this.txbDni);
             this.groupBox1.Controls.Add(this.cmbViajes);
             this.groupBox1.Controls.Add(this.groupBox3);
             this.groupBox1.Controls.Add(this.label4);
             this.groupBox1.Controls.Add(this.label2);
-            this.groupBox1.Controls.Add(this.label3);
             this.groupBox1.Controls.Add(this.label1);
             this.groupBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox1.Location = new System.Drawing.Point(12, 12);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(367, 380);
+            this.groupBox1.Size = new System.Drawing.Size(367, 360);
             this.groupBox1.TabIndex = 4;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Agregar CLIENTE";
-            // 
-            // nudEdad
-            // 
-            this.nudEdad.Location = new System.Drawing.Point(106, 99);
-            this.nudEdad.Name = "nudEdad";
-            this.nudEdad.Size = new System.Drawing.Size(46, 26);
-            this.nudEdad.TabIndex = 19;
             // 
             // txbNombre
             // 
@@ -120,13 +109,14 @@
             // cmbViajes
             // 
             this.cmbViajes.FormattingEnabled = true;
-            this.cmbViajes.Location = new System.Drawing.Point(104, 134);
+            this.cmbViajes.Location = new System.Drawing.Point(106, 108);
             this.cmbViajes.Name = "cmbViajes";
             this.cmbViajes.Size = new System.Drawing.Size(171, 28);
             this.cmbViajes.TabIndex = 19;
             // 
             // groupBox3
             // 
+            this.groupBox3.Controls.Add(this.comboBox1);
             this.groupBox3.Controls.Add(this.radioButton6);
             this.groupBox3.Controls.Add(this.radioButton5);
             this.groupBox3.Controls.Add(this.numericUpDown3);
@@ -136,8 +126,9 @@
             this.groupBox3.Controls.Add(this.label8);
             this.groupBox3.Controls.Add(this.label7);
             this.groupBox3.Controls.Add(this.label6);
+            this.groupBox3.Enabled = false;
             this.groupBox3.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox3.Location = new System.Drawing.Point(6, 175);
+            this.groupBox3.Location = new System.Drawing.Point(6, 142);
             this.groupBox3.Name = "groupBox3";
             this.groupBox3.Size = new System.Drawing.Size(355, 199);
             this.groupBox3.TabIndex = 6;
@@ -243,7 +234,7 @@
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(49, 138);
+            this.label4.Location = new System.Drawing.Point(51, 112);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(49, 18);
             this.label4.TabIndex = 4;
@@ -259,16 +250,6 @@
             this.label2.TabIndex = 2;
             this.label2.Text = "Nombre:";
             // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(49, 102);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(51, 18);
-            this.label3.TabIndex = 3;
-            this.label3.Text = "Edad:";
-            // 
             // label1
             // 
             this.label1.AutoSize = true;
@@ -279,11 +260,19 @@
             this.label1.TabIndex = 1;
             this.label1.Text = "DNI:";
             // 
+            // comboBox1
+            // 
+            this.comboBox1.FormattingEnabled = true;
+            this.comboBox1.Location = new System.Drawing.Point(193, 101);
+            this.comboBox1.Name = "comboBox1";
+            this.comboBox1.Size = new System.Drawing.Size(121, 26);
+            this.comboBox1.TabIndex = 25;
+            // 
             // AgregarCliente
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(399, 469);
+            this.ClientSize = new System.Drawing.Size(399, 429);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.btnAgregar);
             this.Controls.Add(this.groupBox1);
@@ -291,7 +280,6 @@
             this.Text = "AgregarCliente";
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.nudEdad)).EndInit();
             this.groupBox3.ResumeLayout(false);
             this.groupBox3.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown3)).EndInit();
@@ -304,10 +292,6 @@
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button btnAgregar;
         public System.Windows.Forms.GroupBox groupBox1;
-        private System.Windows.Forms.NumericUpDown nudEdad;
-        private System.Windows.Forms.TextBox txbNombre;
-        private System.Windows.Forms.TextBox txbDni;
-        private System.Windows.Forms.ComboBox cmbViajes;
         public System.Windows.Forms.GroupBox groupBox3;
         private System.Windows.Forms.RadioButton radioButton6;
         private System.Windows.Forms.RadioButton radioButton5;
@@ -320,7 +304,10 @@
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label1;
+        public System.Windows.Forms.TextBox txbNombre;
+        public System.Windows.Forms.TextBox txbDni;
+        public System.Windows.Forms.ComboBox cmbViajes;
+        private System.Windows.Forms.ComboBox comboBox1;
     }
 }

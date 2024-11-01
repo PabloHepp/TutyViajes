@@ -72,7 +72,7 @@
             this.groupBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox2.Location = new System.Drawing.Point(12, 12);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(367, 380);
+            this.groupBox2.Size = new System.Drawing.Size(367, 354);
             this.groupBox2.TabIndex = 1;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Agregar VIAJE";
@@ -88,9 +88,10 @@
             // 
             this.groupBox4.Controls.Add(this.label16);
             this.groupBox4.Controls.Add(this.numericUpDown1);
+            this.groupBox4.Enabled = false;
             this.groupBox4.Location = new System.Drawing.Point(6, 255);
             this.groupBox4.Name = "groupBox4";
-            this.groupBox4.Size = new System.Drawing.Size(355, 119);
+            this.groupBox4.Size = new System.Drawing.Size(355, 82);
             this.groupBox4.TabIndex = 20;
             this.groupBox4.TabStop = false;
             this.groupBox4.Text = "Turístico";
@@ -99,7 +100,7 @@
             // 
             this.label16.AutoSize = true;
             this.label16.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label16.Location = new System.Drawing.Point(32, 41);
+            this.label16.Location = new System.Drawing.Point(32, 38);
             this.label16.Name = "label16";
             this.label16.Size = new System.Drawing.Size(164, 18);
             this.label16.TabIndex = 12;
@@ -107,7 +108,7 @@
             // 
             // numericUpDown1
             // 
-            this.numericUpDown1.Location = new System.Drawing.Point(238, 38);
+            this.numericUpDown1.Location = new System.Drawing.Point(229, 35);
             this.numericUpDown1.Name = "numericUpDown1";
             this.numericUpDown1.Size = new System.Drawing.Size(46, 26);
             this.numericUpDown1.TabIndex = 18;
@@ -230,7 +231,7 @@
             // 
             this.btnAgregar.DialogResult = System.Windows.Forms.DialogResult.OK;
             this.btnAgregar.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnAgregar.Location = new System.Drawing.Point(53, 409);
+            this.btnAgregar.Location = new System.Drawing.Point(56, 372);
             this.btnAgregar.Name = "btnAgregar";
             this.btnAgregar.Size = new System.Drawing.Size(131, 43);
             this.btnAgregar.TabIndex = 2;
@@ -241,7 +242,7 @@
             // 
             this.button2.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.Location = new System.Drawing.Point(207, 409);
+            this.button2.Location = new System.Drawing.Point(208, 372);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(131, 43);
             this.button2.TabIndex = 3;
@@ -252,7 +253,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(400, 464);
+            this.ClientSize = new System.Drawing.Size(400, 424);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.btnAgregar);
             this.Controls.Add(this.groupBox2);

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EmpresaViajes.Models
 {
-    internal class ViajeTurismo:Viaje
+    public class ViajeTurismo:Viaje
     {
         public bool ExcursionesNocturna { get; private set; }
 

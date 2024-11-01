@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EmpresaViajes.Models
 {
-    internal class Transporte
+    public class Transporte
     {
         public string Patente { get; private set; }
         public string Destino { get; private set; }

@@ -8,16 +8,22 @@ namespace EmpresaViajes.Models
 {
     internal class Cliente
     {
-        public int Dni { get; private set; }
-        public string nombre { get; private set; }
-        public int edad { get; private set; }
+        public int DNI { get; private set; }
+        public string Nombre { get; private set; }
+        public int Edad { get; private set; }
 
         public Cliente(int dni, string nombre, int edad)
         {
-            Dni = dni;
-            this.nombre = nombre;
-            this.edad = edad;
+            DNI = dni;
+            this.Nombre = nombre;
+            this.Edad = edad;
         }
+
+        public override string ToString()
+        {
+            return $"{DNI}-{Nombre}-{Edad}";
+        }
+
 
     }
 }

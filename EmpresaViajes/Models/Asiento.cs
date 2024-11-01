@@ -28,7 +28,7 @@ namespace EmpresaViajes.Models
         }
         public override string ToString()
         {
-            return $@"Asiento: {NroAsiento} - {Pasajero.nombre} - {Pasajero.Dni}";
+            return $@"Asiento: {NroAsiento} - {Pasajero.Nombre} - {Pasajero.DNI}";
         }
     }
 }

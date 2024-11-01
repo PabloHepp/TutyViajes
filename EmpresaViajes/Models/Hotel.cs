@@ -8,19 +8,20 @@ namespace EmpresaViajes.Models
 {
     internal class Hotel
     {
+        public string Nombre { get; set; }
         public int Categoria { get; private set; }
         public Enum Comidas {  get; private set; }
         public int Habdisponibles { get; private set; }
         public int Habocupadas{ get; private set; }
 
-        public Hotel(int categoria, int comidas, int habdisponibles)
+        public Hotel(string nombre, int categoria, int comidas, int habdisponibles)
         {
+            this.Nombre = Nombre;
             this.Categoria = categoria;
-            this.Comidas = comidas;
+            this.Comidas = comidas; //agregar enumeradores
             this.Habdisponibles = habdisponibles;
             this.Habocupadas = 0;
         }       
-
 
         public bool ConsultarHabitacion()
         {
@@ -55,7 +56,10 @@ namespace EmpresaViajes.Models
             return false;
         }
 
+        public override string ToString()
+        {
+            return $"Hotel {Nombre}-{Categoria}";
+        }
 
-            
     }
 }

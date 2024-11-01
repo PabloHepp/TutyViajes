@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "archivos", "archivos", "{5ECE6E84-D44F-4D76-88C5-A6C9B80BB929}"
 	ProjectSection(SolutionItems) = preProject
 		Clientes.csv = Clientes.csv
+		Viajes.csv = Viajes.csv
 	EndProjectSection
 EndProject
 Global

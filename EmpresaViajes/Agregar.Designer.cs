@@ -153,7 +153,7 @@
             // cmbHoteles
             // 
             this.cmbHoteles.FormattingEnabled = true;
-            this.cmbHoteles.Location = new System.Drawing.Point(136, 70);
+            this.cmbHoteles.Location = new System.Drawing.Point(136, 69);
             this.cmbHoteles.Name = "cmbHoteles";
             this.cmbHoteles.Size = new System.Drawing.Size(171, 28);
             this.cmbHoteles.TabIndex = 14;

@@ -19,7 +19,7 @@ namespace EmpresaViajes.Models
 
         public override void AgregarHotel(Hotel hotel)
         {
-            base.hotel = hotel;
+            base.hoteles[0] = hotel;
         }
 
         //public string ElegirExcursion(int excursion)

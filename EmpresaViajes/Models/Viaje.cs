@@ -9,30 +9,13 @@ namespace EmpresaViajes.Models
     abstract class Viaje
     {
         public int ID { get; private set; }
-        
+
         public Transporte transporte;
         public string Destino { get; private set; }
         public double Costo { get; private set; }
         public int Duracion { get; private set; }
 
-        public Hotel hotel
-
-        {
-            get
-            {
-                Hotel[] hoteles = new Hotel[3];
-                int cantHotel;
-            
-            }
-            set
-            {
-
-
-            }
-        }
-
-
-
+        public Hotel[] hoteles = new Hotel[3];
 
         public Viaje(Transporte transporte, string destino, double costos, int duracion)
         {
@@ -43,6 +26,6 @@ namespace EmpresaViajes.Models
         }
 
         public abstract void AgregarHotel();
-        
+
     }
 }

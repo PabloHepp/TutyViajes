@@ -15,7 +15,23 @@ namespace EmpresaViajes.Models
         public double Costo { get; private set; }
         public int Duracion { get; private set; }
 
-        public Hotel[] hotel = new Hotel[3];
+        public Hotel hotel
+
+        {
+            get
+            {
+                Hotel[] hoteles = new Hotel[3];
+                int cantHotel;
+            
+            }
+            set
+            {
+
+
+            }
+        }
+
+
 
 
         public Viaje(Transporte transporte, string destino, double costos, int duracion)

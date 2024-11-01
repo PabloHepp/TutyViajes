@@ -14,9 +14,9 @@ namespace EmpresaViajes.Models
         {
 
         }
-        public override void AgregarHotel(Hotel hotel)
-        { 
-          => base.hotel = hotel;
+        override void AgregarHotel(Hotel hotel)
+        {
+            base.hotel[0] = hotel;
         }
         
     }

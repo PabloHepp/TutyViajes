@@ -36,7 +36,7 @@
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.btnExportar = new System.Windows.Forms.Button();
             this.btnVerDatos = new System.Windows.Forms.Button();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.txbBuscar = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.label2 = new System.Windows.Forms.Label();
@@ -121,19 +121,19 @@
             // btnVerDatos
             // 
             this.btnVerDatos.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnVerDatos.Location = new System.Drawing.Point(449, 317);
+            this.btnVerDatos.Location = new System.Drawing.Point(440, 299);
             this.btnVerDatos.Name = "btnVerDatos";
             this.btnVerDatos.Size = new System.Drawing.Size(114, 38);
             this.btnVerDatos.TabIndex = 9;
             this.btnVerDatos.Text = "Ver Datos";
             this.btnVerDatos.UseVisualStyleBackColor = true;
             // 
-            // textBox1
+            // txbBuscar
             // 
-            this.textBox1.Location = new System.Drawing.Point(70, 22);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 20);
-            this.textBox1.TabIndex = 10;
+            this.txbBuscar.Location = new System.Drawing.Point(70, 22);
+            this.txbBuscar.Name = "txbBuscar";
+            this.txbBuscar.Size = new System.Drawing.Size(100, 20);
+            this.txbBuscar.TabIndex = 10;
             // 
             // label1
             // 
@@ -148,7 +148,7 @@
             // 
             this.groupBox2.Controls.Add(this.label2);
             this.groupBox2.Controls.Add(this.label1);
-            this.groupBox2.Controls.Add(this.textBox1);
+            this.groupBox2.Controls.Add(this.txbBuscar);
             this.groupBox2.Location = new System.Drawing.Point(393, 207);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Size = new System.Drawing.Size(200, 86);
@@ -198,10 +198,10 @@
         public System.Windows.Forms.RadioButton rbtnClientes;
         public System.Windows.Forms.RadioButton rbtnViajes;
         public System.Windows.Forms.Button btnVerDatos;
-        private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.GroupBox groupBox2;
         private System.Windows.Forms.Label label2;
+        public System.Windows.Forms.TextBox txbBuscar;
     }
 }
 

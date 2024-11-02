@@ -10,22 +10,33 @@ namespace EmpresaViajes.Models
     public class EmpresaTuty
     {
         // Lista de Viajes Disponibles
-        public List<Viaje>[] ListaViajes = new List<Viaje>[20];
+        public List<Viaje> ListaViajes = new List<Viaje>(20);
         public int cantViajes = 0;
-        //public Viaje this[int idx]
-        //{
-        //    get
-        //    {
-                
-        //        if (idx >= 0 && idx < ListaViajes.Count())
-        //         return ListaViajes[idx]; 
-        //        return null;
-        //    }
-        //}
-       
+        
+        public Viaje this[int idx]
+        {
+            get
+            {
+                if (idx >= 0 && idx < ListaViajes.Count())
+                    return ListaViajes[idx];
+                return null;
+            }
+        }
+
         // Lista de Clientes
-        public List<Cliente>[] ListaClientes = new List<Cliente>[50];
-        private int cantClientes = 0;
+        public List<Cliente> ListaClientes = new List<Cliente>(50);
+
+        public Cliente this[long index]
+        {
+            get
+            {
+
+                if (index >= 0 && index < ListaClientes.Count())
+                    return ListaClientes[Convert.ToInt32(index)];
+                return null;
+            }
+        }
+
         public EmpresaTuty()
         {
            
@@ -34,12 +45,13 @@ namespace EmpresaViajes.Models
         public void AgregarViaje(Transporte t, string nombre, int costo, int dias)
         {
             Viaje v = new ViajeCompra(t, nombre, costo, dias);
+            
             ListaViajes[cantViajes++].Add(v);
         }
         public void AgregarCliente(int dni, string nombre)
         {
             Cliente nuevo = new Cliente(dni, nombre);
-            ListaClientes[cantClientes++].Add(nuevo);
+            ListaClientes[indexDni].Add(nuevo);
         }
 
     }

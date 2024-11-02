@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\repos\\TutyViajes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|C:\\repos\\TutyViajes\\empresaviajes\\models\\viaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|solutionrelative:empresaviajes\\models\\viaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|C:\\repos\\TutyViajes\\empresaviajes\\models\\empresatuty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|solutionrelative:empresaviajes\\models\\empresatuty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|c:\\repos\\tutyviajes\\empresaviajes\\models\\viaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|solutionrelative:empresaviajes\\models\\viaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|C:\\repos\\TutyViajes\\empresaviajes\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,7 +23,7 @@
       "RelativeMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|solutionrelative:empresaviajes\\models\\viajecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|c:\\repos\\tutyviajes\\empresaviajes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|C:\\repos\\TutyViajes\\empresaviajes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|solutionrelative:empresaviajes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -35,7 +35,7 @@
       "RelativeMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|solutionrelative:empresaviajes\\agregarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|c:\\repos\\tutyviajes\\empresaviajes\\models\\transporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|C:\\repos\\TutyViajes\\empresaviajes\\models\\transporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCF31526-C3CD-48A9-9C8B-1C95E456CCF2}|EmpresaViajes\\EmpresaViajes.csproj|solutionrelative:empresaviajes\\models\\transporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -62,17 +62,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "EmpresaTuty.cs",
               "DocumentMoniker": "C:\\repos\\TutyViajes\\EmpresaViajes\\Models\\EmpresaTuty.cs",
               "RelativeDocumentMoniker": "EmpresaViajes\\Models\\EmpresaTuty.cs",
               "ToolTip": "C:\\repos\\TutyViajes\\EmpresaViajes\\Models\\EmpresaTuty.cs",
               "RelativeToolTip": "EmpresaViajes\\Models\\EmpresaTuty.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCQAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowBIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T21:49:11.212Z",
               "IsPinned": true,
@@ -89,18 +89,17 @@
               "ViewState": "AgIAABoAAAAAAAAAAAAwwBoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T21:47:50.381Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Viaje.cs",
               "DocumentMoniker": "C:\\repos\\TutyViajes\\EmpresaViajes\\Models\\Viaje.cs",
               "RelativeDocumentMoniker": "EmpresaViajes\\Models\\Viaje.cs",
               "ToolTip": "C:\\repos\\TutyViajes\\EmpresaViajes\\Models\\Viaje.cs",
               "RelativeToolTip": "EmpresaViajes\\Models\\Viaje.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-31T01:31:33.387Z",
               "IsPinned": true,
@@ -117,8 +116,7 @@
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T00:03:12.155Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -131,8 +129,7 @@
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T22:06:22.385Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -145,8 +142,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAcwAwAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T21:48:04.545Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -159,8 +155,7 @@
               "ViewState": "AgIAAAcAAAAAAAAAAAAlwBAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T21:48:33.374Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -173,8 +168,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T22:07:57.611Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -186,8 +180,7 @@
               "RelativeToolTip": "EmpresaViajes\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T21:33:28.511Z",
-              "IsPinned": true,
-              "EditorCaption": " [Dise\u00F1o]"
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -199,8 +192,7 @@
               "RelativeToolTip": "EmpresaViajes\\Agregar.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-31T00:40:17.204Z",
-              "IsPinned": true,
-              "EditorCaption": " [Dise\u00F1o]"
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -212,8 +204,7 @@
               "RelativeToolTip": "EmpresaViajes\\AgregarCliente.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T19:47:41.949Z",
-              "IsPinned": true,
-              "EditorCaption": " [Dise\u00F1o]"
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -226,8 +217,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
               "WhenOpened": "2024-11-01T19:57:33.057Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -247,8 +237,7 @@
               "RelativeToolTip": "EmpresaViajes\\Form1.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAmwEIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T20:25:13.677Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T20:25:13.677Z"
             }
           ]
         }
